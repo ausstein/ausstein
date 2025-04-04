@@ -31,7 +31,8 @@ Rahter than going for the best placement, I try to challenge myself with somethi
 ### Highlights
 
 ### Browser Playable
-- [While loops](https://ausstein.itch.io/stuckinthewhileloop)
+- [While loops](https://ausstein.itch.io/stuckinthewhileloop) <-- click to play
+
 Developed during Ludum Dare 47 - Theme "Stuck in a loop"
 
 One of my favorites for tech audiences:
@@ -43,7 +44,8 @@ You are stuck in an infinite while loop, try to modify the variables to break ou
 
 
 
-- [Deep Sea Mining](https://ausstein.itch.io/deep-sea-mining-post-ld) — 
+- [Deep Sea Mining](https://ausstein.itch.io/deep-sea-mining-post-ld) <-- click to play
+  
 Developed during Ludum Dare 48 - Theme "Deeper and Deeper"
 
 Go deeper and deeper, farm crystals, upgrade your submarine and defend yourself against hostile creatures.
