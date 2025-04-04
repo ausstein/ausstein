@@ -24,14 +24,14 @@ While my changes were not merged into the main repository due to internal change
 - [Project Fork](https://github.com/ausstein/trackmania_rl_public)
 ## 🎮 Game Jam Projects
 Participated in 13 game jams, building complete games in C# and Unity. Many are playable in browser!
-- [Full Game Collection](https://ldjam.com/users/ausstein/games)
+### 🕹️  [Full Game Collection](https://ldjam.com/users/ausstein/games)
 
 Game jams have strengthened my rapid prototyping skills and creative problem-solving. 
-Rahter than going for the best placement, I try to challenge myself with something new for every entry.
+Rather than focusing on top placement, I challenge myself with something new in every entry.
 ### Highlights
 
 ### Browser Playable
-- [While loops](https://ausstein.itch.io/stuckinthewhileloop) <-- click to play
+### 🖥️ [While loops](https://ausstein.itch.io/stuckinthewhileloop) <-- click to play
 
 Developed during Ludum Dare 47 - Theme "Stuck in a loop"
 
@@ -39,12 +39,37 @@ One of my favorites for tech audiences:
 
 You are stuck in an infinite while loop, try to modify the variables to break out before the PC overheats.
 
+> 💬 *"This game feels like the closest I’ve ever come to actually programming something. Terrifying."*
+
+> 💬 *"Really hits home for developers!"*
+
+> 💬 *"Perfectly captures the anxiety of debugging loops."*
+
+> 💬 *"reallyFinalyVersion7 is the best joke of the jam. Really hits home."*
+
+> 💬 *"while (player.enjoyedGame()) { print(“Nice game!”); } Nice game! Nice game! Nice game! Nice game! … (Player died from overheating)"*
+
+*While Loops* received highly positive feedback at Ludum Dare 47 for its humor, creativity, and polished execution. Tech audiences especially appreciated the in-jokes and the clever use of while loops as a game mechanic.
+
+
 ![While Loops Game](https://img.itch.zone/aW1hZ2UvNzc2MTU4LzQzNDYyMTguZ2lm/794x1000/jYpdXA.gif)
 
 
 
+### 🦑 [Deep Sea Mining](https://ausstein.itch.io/deep-sea-mining-post-ld) <-- click to play
 
-- [Deep Sea Mining](https://ausstein.itch.io/deep-sea-mining-post-ld) <-- click to play
+Developed for Ludum Dare 48 — Theme: "Deeper and Deeper"
+
+A submarine mining game focused on exploration, upgrades, and survival. Featuring a dynamic upgrade system, procedurally increasing difficulty, and post-jam improvements based on player feedback.
+
+> 💬  *"This is one of the few games I would sit down and play even if I wasn’t rating games for a game jam."*
+
+> 💬  *"Great progression curve — never felt like I was grinding."*
+
+> 💬  *"Very fun, deserves to be developed further!"*
+
+Players praised the polished feel, addictive progression, and atmospheric graphics. I continued to improve the game after the jam, incorporating player feedback to balance combat, improve lighting, and enhance controls
+
   
 Developed during Ludum Dare 48 - Theme "Deeper and Deeper"
 
@@ -53,10 +78,20 @@ Go deeper and deeper, farm crystals, upgrade your submarine and defend yourself 
 ![Deep Sea Mining Image](https://static.jam.host/raw/7a3/22/z/3f451.png)
 
 ### Download for Windows
-- Multiplosphere [Download link](https://files.jam.host/uploads/$372739/MULTIPLOSHPERE_POST_JAM_0.0.1.zip)
-Developed during Ludum Dare 54 - Theme "Limited Space"
 
-A 3D game. You are in a box in outer space with spheres that keep multiplying. Collect upgrates, manage the timer and shoot the spheres quickly enough so that they don't take up all the limited space in the box.
+### 🎮 Multiplosphere
+
+[Download link](https://files.jam.host/uploads/$372739/MULTIPLOSHPERE_POST_JAM_0.0.1.zip)
+
+Developed for Ludum Dare 54 — Theme: "Limited Space"
+
+A fast-paced 3D arena shooter where multiplying spheres threaten to overwhelm the player. Focused on chaotic gameplay, fast decisions, and satisfying explosions. Collect upgrades, time your moves, and survive as long as possible!
+
+> 💬 *"Infinite replayability — would make a great time-waster on mobile!"*
+
+> 💬 *"The spheres... they’re everywhere..."*
+
+> 💬 *"Nice atmosphere, polished feel — well done!"*
 
 ![Multiplosphere Image](https://static.jam.host/raw/7a3/22/z/5f28b.jpg)
 
