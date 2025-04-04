@@ -30,8 +30,7 @@ Game jams have strengthened my rapid prototyping skills and creative problem-sol
 Rather than focusing on top placement, I challenge myself with something new in every entry.
 ### Highlights
 
-### Browser Playable
-### 🖥️ [While loops](https://ausstein.itch.io/stuckinthewhileloop) <-- click to play
+### 🖥️ [While loops](https://ausstein.itch.io/stuckinthewhileloop) <-- Browser Playable, click to play
 
 Developed during Ludum Dare 47 - Theme "Stuck in a loop"
 
@@ -56,7 +55,7 @@ You are stuck in an infinite while loop, try to modify the variables to break ou
 
 
 
-### 🦑 [Deep Sea Mining](https://ausstein.itch.io/deep-sea-mining-post-ld) <-- click to play
+### 🦑 [Deep Sea Mining](https://ausstein.itch.io/deep-sea-mining-post-ld) <-- Browser Playable, click to play
 
 Developed for Ludum Dare 48 — Theme: "Deeper and Deeper"
 
@@ -77,9 +76,7 @@ Go deeper and deeper, farm crystals, upgrade your submarine and defend yourself 
 
 ![Deep Sea Mining Image](https://static.jam.host/raw/7a3/22/z/3f451.png)
 
-### Download for Windows
-
-### 🎮 Multiplosphere
+### 🎮 Multiplosphere (Download for Windows)
 
 [Download link](https://files.jam.host/uploads/$372739/MULTIPLOSHPERE_POST_JAM_0.0.1.zip)
 
