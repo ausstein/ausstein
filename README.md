@@ -17,7 +17,9 @@ Built a PyTorch-based differentiable implementation of the Numerical Integration
 
 
 ## 🚗 Multiprocessing for Reinforcement Learning in Trackmania
-Developed a multiprocessing system enabling multiple agents to run parallel Trackmania environments, improving training data collection efficiency for reinforcement learning.
+Contributed to a GitHub project focused on reinforcement learning in the racing game Trackmania. Implemented a multiprocessing system that allowed multiple agents to run separate Trackmania environments simultaneously, significantly increasing training data collection speed.
+
+While my changes were not merged into the main repository due to internal changes by the authors, they adopted a similar approach inspired by my implementation in their internal build.
 
 - [Project Fork](https://github.com/ausstein/trackmania_rl_public)
 ## 🎮 Game Jam Projects
