@@ -23,7 +23,7 @@ While my changes were not merged into the main repository due to internal change
 
 - [Project Fork](https://github.com/ausstein/trackmania_rl_public)
 ## 🎮 Game Jam Projects
-Participated in 13 game jams, building complete games in C# and Unity. Many are playable in browser!
+Participated in 14 game jams, building complete games in C# and Unity. Many are playable in browser!
 ### 🕹️  [Full Game Collection](https://ldjam.com/users/ausstein/games)
 
 Game jams have strengthened my rapid prototyping skills and creative problem-solving. 
