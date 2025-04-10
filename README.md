@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yannick Holtkamp
 
-I'm a physicist and computational scientist with a passion for integrating classical simulation algorithms with machine learning techniques to advance our understanding of complex physical systems.
+Physicist and computational scientist focused on integrating machine learning with classical simulations to model complex physical systems. Passionate about AI applications in physics, game environments, and complex ecosystems.
 
 During my PhD at Constructor University Bremen, I developed a fully differentiable implementation of quantum dynamics simulation methods (NISE) in PyTorch, combining them with neural networks to improve accuracy and scalability for biologically relevant systems. I also focus on optimizing scientific codebases for high-performance computing, enabling efficient exploration of complex parameter spaces.
 
