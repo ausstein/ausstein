@@ -6,7 +6,8 @@ During my PhD at Constructor University Bremen, I developed a fully differentiab
 
 I'm particularly interested in applying these methods to AI-based world models, combining differentiable physical models with modern AI architectures to build systems that not only learn from data but also leverage structured knowledge from natural laws.
 
-I also go by 'ausstein' online — a playful nod to Einstein (since "aus" is the opposite of "ein" in German).
+I go by 'ausstein' online — a playful nod to Einstein (since "aus" is the opposite of "ein" in German).
+
 ---
 
 # 🧩 Projects
