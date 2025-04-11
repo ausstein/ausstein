@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yannick Holtkamp
+# 👋 Hi, I'm Yannick Holtkamp — also known as ausstein online, a playful nod to Einstein (since "aus" is the opposite of "ein" in German).
 
 Physicist and computational scientist focused on integrating machine learning with classical simulations to model complex physical systems. Passionate about AI applications in physics, game environments, and complex ecosystems.
 
